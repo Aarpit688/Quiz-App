@@ -1,1 +1,1 @@
-#This is a quiz app, in which you have to answer questions to get a score.
+# This is a quiz app, in which you have to answer questions to get a score.
